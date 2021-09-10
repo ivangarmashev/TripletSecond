@@ -1,0 +1,16 @@
+G:\CSharpProjects\TripletSecond\TripletSecond\bin\Debug\net5.0\TripletSecond.exe
+G:\CSharpProjects\TripletSecond\TripletSecond\bin\Debug\net5.0\TripletSecond.deps.json
+G:\CSharpProjects\TripletSecond\TripletSecond\bin\Debug\net5.0\TripletSecond.runtimeconfig.json
+G:\CSharpProjects\TripletSecond\TripletSecond\bin\Debug\net5.0\TripletSecond.runtimeconfig.dev.json
+G:\CSharpProjects\TripletSecond\TripletSecond\bin\Debug\net5.0\TripletSecond.dll
+G:\CSharpProjects\TripletSecond\TripletSecond\bin\Debug\net5.0\ref\TripletSecond.dll
+G:\CSharpProjects\TripletSecond\TripletSecond\bin\Debug\net5.0\TripletSecond.pdb
+G:\CSharpProjects\TripletSecond\TripletSecond\obj\Debug\net5.0\TripletSecond.csproj.AssemblyReference.cache
+G:\CSharpProjects\TripletSecond\TripletSecond\obj\Debug\net5.0\TripletSecond.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharpProjects\TripletSecond\TripletSecond\obj\Debug\net5.0\TripletSecond.AssemblyInfoInputs.cache
+G:\CSharpProjects\TripletSecond\TripletSecond\obj\Debug\net5.0\TripletSecond.AssemblyInfo.cs
+G:\CSharpProjects\TripletSecond\TripletSecond\obj\Debug\net5.0\TripletSecond.csproj.CoreCompileInputs.cache
+G:\CSharpProjects\TripletSecond\TripletSecond\obj\Debug\net5.0\TripletSecond.dll
+G:\CSharpProjects\TripletSecond\TripletSecond\obj\Debug\net5.0\ref\TripletSecond.dll
+G:\CSharpProjects\TripletSecond\TripletSecond\obj\Debug\net5.0\TripletSecond.pdb
+G:\CSharpProjects\TripletSecond\TripletSecond\obj\Debug\net5.0\TripletSecond.genruntimeconfig.cache
